@@ -1,4 +1,4 @@
-# Shell Design
+# Custom Shell
 
 ## Description
 This project is designed to provide a unique command-line interface with additional features and functionalities.
